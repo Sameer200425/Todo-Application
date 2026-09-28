@@ -35,8 +35,9 @@ Make sure you have the following installed on your machine:
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/manojkumar28119/todo-full-stack-application.git
-   cd todo-app
+    git clone https://github.com/Sameer200425/Todo-Application.git
+    cd Todo-Application
+  ```
 
 ## API Endpoints
 
